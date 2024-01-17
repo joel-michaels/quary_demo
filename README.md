@@ -1,1 +1,0 @@
-# quary_demo
